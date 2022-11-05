@@ -1,2 +1,27 @@
 
 Library/
+
+
+ProjectSettings/
+
+
+UserSettings/
+
+.vsconfig
+Assets/Adaptive Performance.meta
+
+Assets/Adaptive Performance/
+
+Temp/
+
+
+.vs/
+*.csproj
+
+game-project-again.sln
+
+Logs/
+
+Microsoft.Unity.Analyzers.dll
+
+omnisharp.json
